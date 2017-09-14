@@ -1,16 +1,19 @@
 <<<<<<< HEAD
-
+Beatrice
 <<<<<<< HEAD
 
 Mike
 =======
 Mahnoor
 >>>>>>> ac8b66a44665761bc5504a0ae041688b1bab9271
+<<<<<<< HEAD
 =======
 Beatrice  
 
 
 <<<<<<< HEAD
+=======
+>>>>>>> 9662cf9e44077ba9da205727e05597a665be36ef
 =======
 Mike
 Mahnoor
