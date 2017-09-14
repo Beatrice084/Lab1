@@ -1,1 +1,12 @@
+<<<<<<< HEAD
+
 Mahnoor
+=======
+Beatrice
+Mike
+Mahnoor
+
+Mahnoor
+Mike
+Beatrice
+>>>>>>> c1bacf867faa7ec4a44689ebaae1c0fca59fae3e
