@@ -1,1 +1,17 @@
+<<<<<<< HEAD
+
+Mahnoor
+=======
+Beatrice  
+
+
+<<<<<<< HEAD
+=======
+Mike
+Mahnoor
+
+Mahnoor
+Mike
 Beatrice
+>>>>>>> c1bacf867faa7ec4a44689ebaae1c0fca59fae3e
+>>>>>>> ac8b66a44665761bc5504a0ae041688b1bab9271
